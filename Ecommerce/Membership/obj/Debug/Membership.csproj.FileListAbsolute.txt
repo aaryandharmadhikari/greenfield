@@ -1,0 +1,6 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Membership.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Membership.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.pdb

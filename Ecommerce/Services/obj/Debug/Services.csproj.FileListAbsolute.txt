@@ -1,0 +1,2 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache

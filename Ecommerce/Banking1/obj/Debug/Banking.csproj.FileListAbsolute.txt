@@ -1,0 +1,9 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\bin\Debug\Banking1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\bin\Debug\Banking1.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\bin\Debug\Delegation1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\bin\Debug\Delegation1.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\obj\Debug\Banking.csproj.Up2Date
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\obj\Debug\Banking1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Banking1\obj\Debug\Banking1.pdb

@@ -1,0 +1,14 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\net8.0\CSharpFeatureApp.exe
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\net8.0\CSharpFeatureApp.deps.json
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\net8.0\CSharpFeatureApp.runtimeconfig.json
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\net8.0\CSharpFeatureApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\net8.0\CSharpFeatureApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.AssemblyInfoInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.AssemblyInfo.cs
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\refint\CSharpFeatureApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.genruntimeconfig.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\ref\CSharpFeatureApp.dll

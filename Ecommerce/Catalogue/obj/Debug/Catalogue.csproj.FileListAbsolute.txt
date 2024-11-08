@@ -1,0 +1,6 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\bin\Debug\Catalogue.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\bin\Debug\Catalogue.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.pdb

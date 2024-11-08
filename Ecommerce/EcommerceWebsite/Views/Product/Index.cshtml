@@ -1,0 +1,16 @@
+﻿@using Catalogue;
+@{
+    ViewBag.Title = "ProductIIndex";
+}
+
+<h2>PRODUCTS  FOR SALE</h2>
+
+@{
+    foreach (Product p in @Model)
+    {<ol>
+            <img src="@p.ImageURL" width="50" height="50" />
+        </ol>
+        <p>@p.Title</p>
+    }
+}
+
