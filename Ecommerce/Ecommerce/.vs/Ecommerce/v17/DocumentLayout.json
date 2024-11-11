@@ -1,0 +1,694 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D503270-D4E0-4401-A256-5CA55C531D6D}|BinaryRepositoryApp\\BinaryRepositoryApp.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\binaryrepositoryapp\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D503270-D4E0-4401-A256-5CA55C531D6D}|BinaryRepositoryApp\\BinaryRepositoryApp.csproj|solutionrelative:binaryrepositoryapp\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41F3E3-8B7E-4F02-BF81-2A062D682620}|MembershipTestApp\\MembershipTestApp.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\membershiptestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41F3E3-8B7E-4F02-BF81-2A062D682620}|MembershipTestApp\\MembershipTestApp.csproj|solutionrelative:membershiptestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7B225-52A7-4D95-897C-C8D4B0794553}|Services\\Services.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7B225-52A7-4D95-897C-C8D4B0794553}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255CEC6C-D303-4AB3-9DE1-29DF79BB0B7E}|PokoLib\\PokoLib.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\pokolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255CEC6C-D303-4AB3-9DE1-29DF79BB0B7E}|PokoLib\\PokoLib.csproj|solutionrelative:pokolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255CEC6C-D303-4AB3-9DE1-29DF79BB0B7E}|PokoLib\\PokoLib.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\pokolib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255CEC6C-D303-4AB3-9DE1-29DF79BB0B7E}|PokoLib\\PokoLib.csproj|solutionrelative:pokolib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\membership\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|solutionrelative:membership\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|solutionrelative:specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\membership\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|solutionrelative:membership\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAC35E4-59F5-4455-947B-6736C20F54DB}|TestDesignPatternApp\\TestDesignPatternApp.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\testdesignpatternapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAC35E4-59F5-4455-947B-6736C20F54DB}|TestDesignPatternApp\\TestDesignPatternApp.csproj|solutionrelative:testdesignpatternapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\specification\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|solutionrelative:specification\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C77F9E-1E0C-4D0B-8FE2-369F8A9AAE33}|Specification\\Specification.csproj|solutionrelative:specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44FA6F1-E964-4BFF-B4CC-C0DCFB033948}|SerializationTestApp\\SerializationTestApp.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44FA6F1-E964-4BFF-B4CC-C0DCFB033948}|SerializationTestApp\\SerializationTestApp.csproj|solutionrelative:serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\membership\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F11C93-B307-4A1C-8910-E0B2FB1B1153}|Membership\\Membership.csproj|solutionrelative:membership\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAC35E4-59F5-4455-947B-6736C20F54DB}|TestDesignPatternApp\\TestDesignPatternApp.csproj|c:\\users\\aaryan.dharmadhikari\\source\\repos\\ecommerce\\testdesignpatternapp\\officeboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAC35E4-59F5-4455-947B-6736C20F54DB}|TestDesignPatternApp\\TestDesignPatternApp.csproj|solutionrelative:testdesignpatternapp\\officeboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0A8F80-69F8-4DA7-AF0C-0B74E500E1EF}|OrderProcessing\\OrderProcessing.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0A8F80-69F8-4DA7-AF0C-0B74E500E1EF}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0A8F80-69F8-4DA7-AF0C-0B74E500E1EF}|OrderProcessing\\OrderProcessing.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\orderprocessing\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0A8F80-69F8-4DA7-AF0C-0B74E500E1EF}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BD8B47-C62E-4C74-BA40-0A6EBD845F74}|Penalty1\\Penalty1.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\penalty1\\penaltyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BD8B47-C62E-4C74-BA40-0A6EBD845F74}|Penalty1\\Penalty1.csproj|solutionrelative:penalty1\\penaltyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5C650-82D8-42AF-B5A0-F96F50459652}|CSharp\\CSharp.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5C650-82D8-42AF-B5A0-F96F50459652}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403F1AF7-4A2F-410F-9082-D3FCB2F5DE73}|Delegation1\\Delegation.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\delegation1\\delegation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403F1AF7-4A2F-410F-9082-D3FCB2F5DE73}|Delegation1\\Delegation.csproj|solutionrelative:delegation1\\delegation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5CB6CF-2164-4F5F-A154-B240DE1ED2F5}|Banking1\\Banking.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\banking1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5CB6CF-2164-4F5F-A154-B240DE1ED2F5}|Banking1\\Banking.csproj|solutionrelative:banking1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752FF22-2C28-42F6-9491-42178F123278}|Taxation1\\Taxation.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\taxation1\\taxhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752FF22-2C28-42F6-9491-42178F123278}|Taxation1\\Taxation.csproj|solutionrelative:taxation1\\taxhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\shoppingcart\\shoppingcartremovefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\shoppingcart\\shoppingcartremovefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\shoppingcart\\shoppingcartaddtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\shoppingcart\\shoppingcartaddtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\shoppingcart\\shoppingcartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\shoppingcart\\shoppingcartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\auth\\authresetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\auth\\authresetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\auth\\authforgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\auth\\authforgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\auth\\authregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\auth\\authregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\auth\\authlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\auth\\authlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC4BC1-83BA-49C0-844C-47B77EFA3AE0}|CRM\\CRM.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\crm\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC4BC1-83BA-49C0-844C-47B77EFA3AE0}|CRM\\CRM.csproj|solutionrelative:crm\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\ecommercewebsite\\views\\customer\\customerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DC34A6-3273-43C9-BBA0-1747A0B6EF27}|EcommerceWebsite\\EcommerceWebsite.csproj|solutionrelative:ecommercewebsite\\views\\customer\\customerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\BinaryRepositoryApp\\BinaryRepository.cs",
+              "RelativeDocumentMoniker": "BinaryRepositoryApp\\BinaryRepository.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\BinaryRepositoryApp\\BinaryRepository.cs",
+              "RelativeToolTip": "BinaryRepositoryApp\\BinaryRepository.cs",
+              "ViewState": "AQIAADYAAAAAZmZmZmYnwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:35:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:53:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\PokoLib\\Product.cs",
+              "RelativeDocumentMoniker": "PokoLib\\Product.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\PokoLib\\Product.cs",
+              "RelativeToolTip": "PokoLib\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:57:38.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\Class1.cs",
+              "RelativeDocumentMoniker": "Specification\\Class1.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\Class1.cs",
+              "RelativeToolTip": "Specification\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:22:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\IProductService.cs",
+              "RelativeDocumentMoniker": "Specification\\IProductService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\IProductService.cs",
+              "RelativeToolTip": "Specification\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:27:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\SerializationTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\SerializationTestApp\\Program.cs",
+              "RelativeToolTip": "SerializationTestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:59:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\PokoLib\\Credentials.cs",
+              "RelativeDocumentMoniker": "PokoLib\\Credentials.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\PokoLib\\Credentials.cs",
+              "RelativeToolTip": "PokoLib\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:07:34.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\MembershipTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "MembershipTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\MembershipTestApp\\Program.cs",
+              "RelativeToolTip": "MembershipTestApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:18:10.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Specification\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeToolTip": "Specification\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:44:47.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Membership\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\IAuthService.cs",
+              "RelativeToolTip": "Membership\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:16:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\AuthService.cs",
+              "RelativeDocumentMoniker": "Membership\\AuthService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\AuthService.cs",
+              "RelativeToolTip": "Membership\\AuthService.cs",
+              "ViewState": "AQIAACMAAABAAAAAAMAkwC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:17:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\TestDesignPatternApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestDesignPatternApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\TestDesignPatternApp\\Program.cs",
+              "RelativeToolTip": "TestDesignPatternApp\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:54:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\User.cs",
+              "RelativeDocumentMoniker": "Membership\\User.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Membership\\User.cs",
+              "RelativeToolTip": "Membership\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:17:07.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OfficeBoy.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\TestDesignPatternApp\\OfficeBoy.cs",
+              "RelativeDocumentMoniker": "TestDesignPatternApp\\OfficeBoy.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\TestDesignPatternApp\\OfficeBoy.cs",
+              "RelativeToolTip": "TestDesignPatternApp\\OfficeBoy.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:58:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\OrderProcessing\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Order.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\OrderProcessing\\Order.cs",
+              "RelativeToolTip": "OrderProcessing\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:25:23.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\OrderProcessing\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\OrderService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\OrderProcessing\\OrderService.cs",
+              "RelativeToolTip": "OrderProcessing\\OrderService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA3wCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:55:21.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Banking1\\Account.cs",
+              "RelativeDocumentMoniker": "Banking1\\Account.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Banking1\\Account.cs",
+              "RelativeToolTip": "Banking1\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:43:39.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delegation.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Delegation1\\Delegation.cs",
+              "RelativeDocumentMoniker": "Delegation1\\Delegation.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Delegation1\\Delegation.cs",
+              "RelativeToolTip": "Delegation1\\Delegation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:23:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PenaltyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Penalty1\\PenaltyHandler.cs",
+              "RelativeDocumentMoniker": "Penalty1\\PenaltyHandler.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Penalty1\\PenaltyHandler.cs",
+              "RelativeToolTip": "Penalty1\\PenaltyHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:20:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaxHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Taxation1\\TaxHandler.cs",
+              "RelativeDocumentMoniker": "Taxation1\\TaxHandler.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\Taxation1\\TaxHandler.cs",
+              "RelativeToolTip": "Taxation1\\TaxHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:19:27.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharp\\Program.cs",
+              "RelativeToolTip": "CSharp\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswFUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:11:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAzczMzMwXwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:41:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EcommerceWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:11:31.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\update.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Product\\update.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\update.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Product\\update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\insert.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Product\\insert.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\insert.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Product\\insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "shoppingcartaddtocart.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartaddtocart.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartaddtocart.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartaddtocart.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartaddtocart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:14:46.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Shoppingcartindex.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\Shoppingcartindex.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Shoppingcart\\Shoppingcartindex.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\Shoppingcartindex.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Shoppingcart\\Shoppingcartindex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:14:13.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "shoppingcartremovefromcart.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartremovefromcart.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartremovefromcart.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartremovefromcart.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Shoppingcart\\shoppingcartremovefromcart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:15:14.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthresetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\AuthresetPassword.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Auth\\AuthresetPassword.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\AuthresetPassword.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Auth\\AuthresetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:11:01.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthforgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\AuthforgotPassword.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Auth\\AuthforgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\AuthforgotPassword.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Auth\\AuthforgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:10:31.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Authregister.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\Authregister.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Auth\\Authregister.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\Authregister.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Auth\\Authregister.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:10:10.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Authlogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\Authlogin.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Auth\\Authlogin.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Auth\\Authlogin.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Auth\\Authlogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:09:50.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\delete.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Product\\delete.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\delete.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Product\\delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:58.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceWebsite\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:57:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\details.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Product\\details.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Product\\details.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Product\\details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:04:36.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "EcommerceWebsite\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:56:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EcommerceWebsite\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:56:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CRM\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CRM\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CRM\\ICustomerService.cs",
+              "RelativeToolTip": "CRM\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:20:21.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EcommerceWebsite\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:45:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:06:50.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Customer\\CustomerIndex.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebsite\\Views\\Customer\\CustomerIndex.cshtml",
+              "ToolTip": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\EcommerceWebsite\\Views\\Customer\\CustomerIndex.cshtml",
+              "RelativeToolTip": "EcommerceWebsite\\Views\\Customer\\CustomerIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:13:29.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

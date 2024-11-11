@@ -1,0 +1,13 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Membership.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Membership.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\BinaryRepositoryApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\PokoLib.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Specification.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\BinaryRepositoryApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\PokoLib.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Specification.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.Up2Date

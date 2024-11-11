@@ -1,0 +1,6 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\bin\Debug\Taxation1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\bin\Debug\Taxation1.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\obj\Debug\Taxation.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\obj\Debug\Taxation1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Taxation1\obj\Debug\Taxation1.pdb

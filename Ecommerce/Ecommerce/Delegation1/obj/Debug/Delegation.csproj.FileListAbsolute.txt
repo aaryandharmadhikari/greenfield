@@ -1,0 +1,6 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\bin\Debug\Delegation1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\bin\Debug\Delegation1.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\obj\Debug\Delegation1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Delegation1\obj\Debug\Delegation1.pdb

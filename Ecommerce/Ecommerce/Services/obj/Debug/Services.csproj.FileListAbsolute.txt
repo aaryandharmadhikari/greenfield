@@ -1,0 +1,13 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\Services.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\Services.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\BinaryRepositoryApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\PokoLib.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\Specification.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\BinaryRepositoryApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\PokoLib.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\Specification.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.pdb

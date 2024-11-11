@@ -1,0 +1,6 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\bin\Debug\Penalty1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\bin\Debug\Penalty1.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\obj\Debug\Penalty.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\obj\Debug\Penalty1.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Penalty1\obj\Debug\Penalty1.pdb

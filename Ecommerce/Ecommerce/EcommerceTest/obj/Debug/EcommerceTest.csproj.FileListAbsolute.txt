@@ -1,0 +1,14 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe.config
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catalogue.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catalogue.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\Ecommerc.A4D575A9.Up2Date
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb

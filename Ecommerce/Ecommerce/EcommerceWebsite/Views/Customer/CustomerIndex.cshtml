@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "CustomerIndex";
+}
+
+<h2>CustomerIndex</h2>
+<main>
+@{ 
+    foreach (EcommerceWebsite.Models.Customer c in @Model)
+    {
+      <p>
+          @c.Id @c.FirstName @c.LastName @c.Email   
+      </p>
+        }
+    }
+</main>

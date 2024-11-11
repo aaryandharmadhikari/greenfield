@@ -1,0 +1,16 @@
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.exe.config
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.exe
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\Membership.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\PokoLib.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\Specification.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\BinaryRepositoryApp.dll
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\Membership.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\PokoLib.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\Specification.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\bin\Debug\BinaryRepositoryApp.pdb
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.csproj.AssemblyReference.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.csproj.CoreCompileInputs.cache
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\obj\Debug\Membersh.B1365ED7.Up2Date
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.exe
+C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.pdb
