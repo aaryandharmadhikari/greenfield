@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj": {}
+    "C:\\MYWORK\\greenfield\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj": {
+    "C:\\MYWORK\\greenfield\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj",
+        "projectUniqueName": "C:\\MYWORK\\greenfield\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj",
         "projectName": "CSharpFeatureApp",
-        "projectPath": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj",
+        "projectPath": "C:\\MYWORK\\greenfield\\Ecommerce\\CSharpFeatureApp\\CSharpFeatureApp.csproj",
         "packagesPath": "C:\\Users\\aaryan.dharmadhikari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaryan.dharmadhikari\\source\\repos\\Ecommerce\\CSharpFeatureApp\\obj\\",
+        "outputPath": "C:\\MYWORK\\greenfield\\Ecommerce\\CSharpFeatureApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aaryan.dharmadhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
