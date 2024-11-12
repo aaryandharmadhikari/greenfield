@@ -50,9 +50,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Membership\Membership.csproj">
+      <Project>{14f11c93-b307-4a1c-8910-e0b2fb1b1153}</Project>
+      <Name>Membership</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PokoLib\PokoLib.csproj">
       <Project>{255cec6c-d303-4ab3-9de1-29df79bb0b7e}</Project>
       <Name>PokoLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{1bd7b225-52a7-4d95-897c-c8d4b0794553}</Project>
+      <Name>Services</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Membership
 {
-    internal class User
+    [Serializable]
+    public class User
     {
         public int ID {  get; set; }
 

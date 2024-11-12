@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IProductService.cs" />
     <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -53,6 +52,10 @@
     <ProjectReference Include="..\PokoLib\PokoLib.csproj">
       <Project>{255cec6c-d303-4ab3-9de1-29df79bb0b7e}</Project>
       <Name>PokoLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Specification\Specification.csproj">
+      <Project>{01c77f9e-1e0c-4d0b-8fe2-369f8a9aae33}</Project>
+      <Name>Specification</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
