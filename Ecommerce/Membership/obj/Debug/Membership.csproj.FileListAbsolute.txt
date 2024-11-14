@@ -11,3 +11,16 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Binary
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\PokoLib.pdb
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\bin\Debug\Specification.pdb
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Membership\obj\Debug\Membership.csproj.Up2Date
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\Membership.dll
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\Membership.pdb
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\BinaryRepositoryApp.dll
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\PokoLib.dll
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\Specification.dll
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\BinaryRepositoryApp.pdb
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\PokoLib.pdb
+C:\MYWORK\greenfield\Ecommerce\Membership\bin\Debug\Specification.pdb
+C:\MYWORK\greenfield\Ecommerce\Membership\obj\Debug\Membership.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\Membership\obj\Debug\Membership.csproj.Up2Date
+C:\MYWORK\greenfield\Ecommerce\Membership\obj\Debug\Membership.dll
+C:\MYWORK\greenfield\Ecommerce\Membership\obj\Debug\Membership.pdb

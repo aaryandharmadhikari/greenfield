@@ -4,3 +4,9 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\PokoLib\obj\Debug\PokoLib.c
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\PokoLib\obj\Debug\PokoLib.csproj.CoreCompileInputs.cache
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\PokoLib\obj\Debug\PokoLib.dll
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\PokoLib\obj\Debug\PokoLib.pdb
+C:\MYWORK\greenfield\Ecommerce\PokoLib\bin\Debug\PokoLib.dll
+C:\MYWORK\greenfield\Ecommerce\PokoLib\bin\Debug\PokoLib.pdb
+C:\MYWORK\greenfield\Ecommerce\PokoLib\obj\Debug\PokoLib.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\PokoLib\obj\Debug\PokoLib.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\PokoLib\obj\Debug\PokoLib.dll
+C:\MYWORK\greenfield\Ecommerce\PokoLib\obj\Debug\PokoLib.pdb

@@ -81,3 +81,7 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceWebsite\bin\Catalo
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceWebsite\bin\Catalogue.pdb
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceWebsite\bin\CRM.dll
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceWebsite\bin\CRM.pdb
+C:\MYWORK\greenfield\Ecommerce\EcommerceWebsite\obj\Debug\EcommerceWebsite.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\EcommerceWebsite\obj\Debug\EcommerceWebsite.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\EcommerceWebsite\obj\Debug\EcommerceWebsite.dll
+C:\MYWORK\greenfield\Ecommerce\EcommerceWebsite\obj\Debug\EcommerceWebsite.pdb

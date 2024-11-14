@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+{
+ @using BankingPortal.Models;
+}
+<h2>Customer List</h2>
+@{ 
+   List<Customer> customers = (List<Customer>)ViewData["list"];
+   foreach(Customer customer in customers)
+            {
+                <p>@customer.Name,@customer.Email,@customer.Id<a href="Details"></a></p>
+             }
+
+   
+}
+<h2>Index</h2>
+

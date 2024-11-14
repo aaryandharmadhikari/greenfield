@@ -64,7 +64,7 @@ namespace MembershipTestApp
                         }
                         break;
                     case 2:
-                        Console.WriteLine("\n\n\t###############  Register User ##############\n\tPlease Enter your Details Below\n");
+                        Console.WriteLine("\nREGISTRATION\n");
                         Console.WriteLine("Enter the User ID here :");
                         int id = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Enter the First Name here :");
@@ -83,7 +83,7 @@ namespace MembershipTestApp
                         svc.GetAllUsers();
                         break;
                     case 3:
-                        Console.WriteLine("\n\n\t###############  Forget User Password ##############\n\tPlease Enter your Details Below\n\n");
+                        Console.WriteLine("\nFORGOT PASSWWORD\n");
                         Console.WriteLine("Enter your Email ID here : ");
                         email = Console.ReadLine();
                         Console.WriteLine("The password for Account with username" + email + " is :" + authService.ForgotPassword(email));
@@ -103,7 +103,7 @@ namespace MembershipTestApp
                         }
                         else
                         {
-                            Console.WriteLine("Oops! you entered wrong credentials");
+                            Console.WriteLine(" You have  entered wrong credentials");
                         }
 
                         break;

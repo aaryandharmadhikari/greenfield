@@ -7,6 +7,9 @@ using System.Web.Http;
 using Pokolib;
 using Services;
 using Specification;
+using Membership;
+using JsonDataRepository;
+
 namespace AuthWebAPI.Controllers
 {
     public class ProductsController : ApiController
@@ -45,6 +48,7 @@ namespace AuthWebAPI.Controllers
             IProductService svc=new ProductService();
             svc.Get(id);
             svc.Update(value);
+           
 
 
         }

@@ -7,3 +7,12 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Specification\obj\Debug\Spe
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Specification\obj\Debug\Specification.dll
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Specification\obj\Debug\Specification.pdb
+C:\MYWORK\greenfield\Ecommerce\Specification\bin\Debug\Specification.dll
+C:\MYWORK\greenfield\Ecommerce\Specification\bin\Debug\Specification.pdb
+C:\MYWORK\greenfield\Ecommerce\Specification\bin\Debug\PokoLib.dll
+C:\MYWORK\greenfield\Ecommerce\Specification\bin\Debug\PokoLib.pdb
+C:\MYWORK\greenfield\Ecommerce\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
+C:\MYWORK\greenfield\Ecommerce\Specification\obj\Debug\Specification.dll
+C:\MYWORK\greenfield\Ecommerce\Specification\obj\Debug\Specification.pdb

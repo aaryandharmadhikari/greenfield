@@ -12,3 +12,11 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.pdb
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.genruntimeconfig.cache
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\ref\CSharpFeatureApp.dll
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.AssemblyInfoInputs.cache
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.AssemblyInfo.cs
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.sourcelink.json
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.dll
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\refint\CSharpFeatureApp.dll
+C:\MYWORK\greenfield\Ecommerce\CSharpFeatureApp\obj\Debug\net8.0\CSharpFeatureApp.pdb

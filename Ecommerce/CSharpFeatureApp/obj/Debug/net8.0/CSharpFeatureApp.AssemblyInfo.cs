@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpFeatureApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf72b6116dc578c89d4e0a86185041e7d4bb7bc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d0edda5e93b1453a0a4821cc5dab7403390b018")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpFeatureApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpFeatureApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

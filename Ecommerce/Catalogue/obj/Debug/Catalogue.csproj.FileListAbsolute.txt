@@ -4,3 +4,7 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalog
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.CoreCompileInputs.cache
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.dll
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Catalogue\obj\Debug\Catalogue.pdb
+C:\MYWORK\greenfield\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\Catalogue\obj\Debug\Catalogue.dll
+C:\MYWORK\greenfield\Ecommerce\Catalogue\obj\Debug\Catalogue.pdb

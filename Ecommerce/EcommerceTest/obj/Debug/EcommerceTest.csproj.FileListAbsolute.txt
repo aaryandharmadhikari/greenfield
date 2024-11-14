@@ -12,3 +12,7 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\Eco
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\Ecommerc.A4D575A9.Up2Date
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb
+C:\MYWORK\greenfield\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
+C:\MYWORK\greenfield\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb

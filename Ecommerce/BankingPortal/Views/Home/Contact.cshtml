@@ -1,0 +1,22 @@
+﻿
+
+@using BankingPortal.Models;
+
+    @{
+    ViewBag.Title = "Contact";
+}
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+
+
+
+    @{ 
+
+        Contact details = (Contact)ViewData["contact"];
+        <p>Email:@details.Email</p>
+        <p>Contact Number:@details.ContactNumber</p>
+        <p>Website:@details.Website</p>
+
+    }
+</main>

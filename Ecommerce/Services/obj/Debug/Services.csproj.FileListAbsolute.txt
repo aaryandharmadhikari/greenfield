@@ -11,3 +11,16 @@ C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\bin\Debug\Specific
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.Up2Date
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.dll
 C:\Users\aaryan.dharmadhikari\source\repos\Ecommerce\Services\obj\Debug\Services.pdb
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\Services.dll
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\Services.pdb
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\BinaryRepositoryApp.dll
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\PokoLib.dll
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\Specification.dll
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\BinaryRepositoryApp.pdb
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\PokoLib.pdb
+C:\MYWORK\greenfield\Ecommerce\Services\bin\Debug\Specification.pdb
+C:\MYWORK\greenfield\Ecommerce\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\MYWORK\greenfield\Ecommerce\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\MYWORK\greenfield\Ecommerce\Services\obj\Debug\Services.csproj.Up2Date
+C:\MYWORK\greenfield\Ecommerce\Services\obj\Debug\Services.dll
+C:\MYWORK\greenfield\Ecommerce\Services\obj\Debug\Services.pdb

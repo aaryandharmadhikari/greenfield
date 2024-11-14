@@ -66,7 +66,7 @@ namespace BinaryRepositoryApp
      }*/
 
     
-    public class BinaryRepository<T> : IDataRepository<T>
+    public class BinaryRepository<T> :IDataRepository<T>
     {
         private static BinaryRepository<T> _ref = null;
         public  BinaryRepository()

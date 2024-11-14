@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Pokolib;
-using BinaryRepositoryApp;
+//using BinaryRepositoryApp;
 using Specification;
-namespace Services
+using 
+    namespace Services
 {
     public  class ProductService:IProductService
     {
+        public ProductService()
+        {
+            Seeding();
+        }
         public bool Seeding()
         {
             bool status = false;
@@ -19,7 +24,8 @@ namespace Services
             products.Add(new Product { ProductID = 3,Title= "lily", Description = "Delicate Flower", Unitprice = 2, Quantity = 7000, ImageURL = "/images/lily.jpg" });
             products.Add(new Product { ProductID = 4, Title = "jasmine", Description = "Fregrance Flower", Unitprice = 12, Quantity = 55000, ImageURL = "/images/jasmines.jpg" });
             products.Add(new Product { ProductID = 5, Title = "lotus", Description = "Worship Flower", Unitprice = 45, Quantity = 15000, ImageURL = "/images/lotus.jpg" });
-            IDataRepository<Product> repo = new BinaryRepository<Product>();
+            //IDataRepository<Product> repo = new BinaryRepository<Product>();
+            IDataRepository<Product>repo=new 
             status = repo.Serialize(@"D:/products.dat", products);
 
             return status;
